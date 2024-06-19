@@ -3,7 +3,7 @@ baseurl: '/iconic-resume'
 name: Toe Aung Ye Yint
 
 headline: >-
-  Master of Information Technology degree from Monash University with 2 years of experience in software development.
+  Master of Information Technology degree from Monash University with over 2 years of experience in software development.
   Passionate about artificial intelligence and more.
 
 contact:
@@ -13,7 +13,7 @@ contact:
   #   url: 'https://toeaung-yeyint.github.io/'  # replace with your own address
   -
     icon: 'bi bi-envelope'
-    name: toeaungyeyint@gmail.com
+    name: namegmail.com
     url: 'mailto:toeaungyeyint@gmail.com'  # replace with your own email
   -
     icon: 'bi bi-phone'
