@@ -7,10 +7,10 @@ headline: >-
   Passionate about artificial intelligence and more.
 
 contact:
-  -
-    icon: 'bi bi-globe'
-    name: toeaung-yeyint.github.io
-    url: 'https://toeaung-yeyint.github.io/'  # replace with your own address
+  # -
+  #   icon: 'bi bi-globe'
+  #   name: toeaung-yeyint.github.io
+  #   url: 'https://toeaung-yeyint.github.io/'  # replace with your own address
   -
     icon: 'bi bi-envelope'
     name: toeaungyeyint@gmail.com
