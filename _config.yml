@@ -132,19 +132,19 @@ experience:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
 
 ########### Publications (optional)
-publication:
-  -
-    title: An Awesome Paper with an Awesome Title 2
-    author: Josh Lee
-    journal: International Conference on Machine Learning (ICML)
-    year: 2022
-    link: 'http://arxiv.org/'
-  -
-    title: An Awesome Paper with an Awesome Title 1
-    author: Josh Lee
-    journal: International Conference on Learning Representations (ICLR)
-    year: 2021
-    link: 'http://arxiv.org/'
+# publication:
+#   -
+#     title: An Awesome Paper with an Awesome Title 2
+#     author: Josh Lee
+#     journal: International Conference on Machine Learning (ICML)
+#     year: 2022
+#     link: 'http://arxiv.org/'
+#   -
+#     title: An Awesome Paper with an Awesome Title 1
+#     author: Josh Lee
+#     journal: International Conference on Learning Representations (ICLR)
+#     year: 2021
+#     link: 'http://arxiv.org/'
 
 ########### Projects (optional)
 project:
