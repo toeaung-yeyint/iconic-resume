@@ -16,12 +16,12 @@ contact:
     name: toeaungyeyint@gmail.com
     url: 'mailto:toeaungyeyint@gmail.com'  # replace with your own email
   -
+    icon: 'bi bi-phone'
+    name: 0451 540 057
+  -
     icon: 'bi bi-linkedin'
     name: Toe Aung Ye Yint
     url: 'https://www.linkedin.com/in/toeaung-yeyint'  # replace with your own address
-  -
-    icon: 'bi bi-phone'
-    name: 0451 540 057
 
 language:
   - English
