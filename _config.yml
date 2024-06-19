@@ -3,36 +3,30 @@ baseurl: '/iconic-resume'
 name: Toe Aung Ye Yint
 
 headline: >-
-  Headline goes here. Example: Data Science degree from Harvard with 3 years of experience in software development.
+  Headline goes here. Example: Master of Information Technology degree from Monash University with 2 years of experience in software development.
   Passionate about artificial intelligence and more.
 
 contact:
   -
     icon: 'bi bi-globe'
-    name: example.com
-    url: 'https://www.example.com'  # replace with your own address
+    name: toeaung-yeyint.github.io
+    url: 'https://toeaung-yeyint.github.io/'  # replace with your own address
   -
     icon: 'bi bi-envelope'
-    name: name@gmail.com
-    url: 'mailto:username@gmail.com'  # replace with your own email
+    name: toeaungyeyint@gmail.com
+    url: 'mailto:toeaungyeyint@gmail.com'  # replace with your own email
   -
     icon: 'bi bi-linkedin'
-    name: Josh Lee
-    url: 'https://www.linkedin.com/in/username'  # replace with your own address
+    name: Toe Aung Ye Yint
+    url: 'https://www.linkedin.com/in/toeaung-yeyint'  # replace with your own address
   -
     icon: 'bi bi-github'
-    name: joshtech
-    url: 'https://github.com/username'  # replace with your own address
-  -
-    icon: 'bi bi-youtube'
-    name: joshchannel
-    url: 'https://youtube.com'  # replace with your own address
+    name: toeaung-yeyint
+    url: 'https://github.com/toeaung-yeyint'  # replace with your own address
 
 language:
   - English
-  - Italian
-  - Swedish
-  - Japanese
+  - Burmese
 
 techstack:
   -
