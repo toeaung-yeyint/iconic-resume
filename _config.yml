@@ -96,9 +96,9 @@ education:
     description: >-
       GPA: 4.0/4.0
       <br>
-      Thesis: Your Thesis Title Here
-      <br>
-      Other information here.
+      # Thesis: Your Thesis Title Here
+      # <br>
+      # Other information here.
   -
     icon: thanlyin.jpg
     school: Technological University (Thanlyin)
@@ -107,8 +107,8 @@ education:
     time: 2014 ~ 2018 &middot; 4 yrs
     description: >-
       GPA: 4.0/4.0
-      <br>
-      Other information here.
+      # <br>
+      # Other information here.
 
 ########### Experience (optional)
 experience:
