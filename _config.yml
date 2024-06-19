@@ -7,11 +7,7 @@ headline: >-
   Passionate about artificial intelligence and more.
 
 contact:
-  # -
-  #   icon: 'bi bi-globe'
-  #   name: toeaung-yeyint.github.io
-  #   url: 'https://toeaung-yeyint.github.io/'  # replace with your own address
-  -
+   -
     icon: 'bi bi-envelope'
     name: namegmail.com
     url: 'mailto:toeaungyeyint@gmail.com'  # replace with your own email
@@ -21,8 +17,12 @@ contact:
     url: 'tel:+61451540057'  # Replace with your mobile number prefixed with 'tel:'
   -
     icon: 'bi bi-linkedin'
-    name: ToeAungYeYint
+    name: toeaung-yeyint
     url: 'https://www.linkedin.com/in/toeaung-yeyint'  # replace with your own address
+  -
+    icon: 'bi bi-globe'
+    name: toeaung-yeyint
+    url: 'https://toeaung-yeyint.github.io/'  # replace with your own address
 
 language:
   - English
