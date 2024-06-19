@@ -100,7 +100,7 @@ education:
       <br>
       Other information here.
   -
-    icon: Thanlyin.jpg
+    icon: thanlyin.jpg
     school: Technological University (Thanlyin)
     degree: BSc. in Computer Science
     loc: Pittsburgh, PA
@@ -115,7 +115,7 @@ experience:
   -
     icon: deakin.jpg
     company: Deakin University
-    role: Machine Learning Engineer
+    role: Web Developer
     loc: Mountain View, CA
     time: 2022 ~ now
     description: >-
@@ -123,7 +123,7 @@ experience:
   -
     icon: monash.jpg
     company: Monash University
-    role: Software Developer
+    role: Web Developer
     loc: Seattle, WA
     time: 2020 ~ 2022 &middot; 2yrs
     description: >-
