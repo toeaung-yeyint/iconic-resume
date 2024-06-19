@@ -3,7 +3,7 @@ baseurl: '/iconic-resume'
 name: Toe Aung Ye Yint
 
 headline: >-
-  Headline goes here. Example: Master of Information Technology degree from Monash University with 2 years of experience in software development.
+  Master of Information Technology degree from Monash University with 2 years of experience in software development.
   Passionate about artificial intelligence and more.
 
 contact:
@@ -20,7 +20,7 @@ contact:
     name: Toe Aung Ye Yint
     url: 'https://www.linkedin.com/in/toeaung-yeyint'  # replace with your own address
   -
-    icon: 'bi bi-github'
+    icon: 'bi bi-phone'
     name: toeaung-yeyint
     url: 'https://github.com/toeaung-yeyint'  # replace with your own address
 
