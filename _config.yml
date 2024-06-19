@@ -88,7 +88,7 @@ hobby:
 ########### Education
 education:
   -
-    icon: monash.png
+    icon: monash.jpg
     school: Monash University
     degree: MSc. in Data Science
     loc: Boston, MA
@@ -100,8 +100,8 @@ education:
       <br>
       Other information here.
   -
-    icon: cmu.png
-    school: Carnegie Mellon University
+    icon: Thanlyin.jpg
+    school: Technological University (Thanlyin)
     degree: BSc. in Computer Science
     loc: Pittsburgh, PA
     time: 2014 ~ 2018 &middot; 4 yrs
@@ -113,16 +113,16 @@ education:
 ########### Experience (optional)
 experience:
   -
-    icon: google.png
-    company: Google
+    icon: deakin.jpg
+    company: Deakin University
     role: Machine Learning Engineer
     loc: Mountain View, CA
     time: 2022 ~ now
     description: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
   -
-    icon: amazon.png
-    company: Amazon
+    icon: monash.jpg
+    company: Monash University
     role: Software Developer
     loc: Seattle, WA
     time: 2020 ~ 2022 &middot; 2yrs
