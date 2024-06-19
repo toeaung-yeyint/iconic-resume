@@ -18,6 +18,7 @@ contact:
   -
     icon: 'bi bi-phone'
     name: 0451 540 057
+    url: 'tel:+61451540057'  # Replace with your mobile number prefixed with 'tel:'
   -
     icon: 'bi bi-linkedin'
     name: Toe Aung Ye Yint
