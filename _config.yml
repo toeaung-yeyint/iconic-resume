@@ -120,7 +120,9 @@ experience:
     time: 2022 ~ now
     description: >-
       Developed a web application using Power Apps to streamline managing digital assets, providing division staff a centralized hub for convenient access and resulting in 80% increase in asset utilisation across the division.
+      -
       Revamped existing websites on Squiz Matrix (CMS) and WordPress (CMS) using HTML, CSS, and JavaScript to modernize and optimize UI/UX, resulting in intuitive user interfaces and enhanced user experience.
+      -
       Implemented process automation using Power Automate to streamline manual workflows, reducing manual tasks by 50%, minimising human errors and amplifying efficiency across the division.
   -
     icon: monash.jpg
