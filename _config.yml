@@ -152,13 +152,13 @@ experience:
 project:
   -
     icon: github.svg
-    name: awesome-project-one
-    link: 'https://github.com/'
+    name: TEAMS-TITLES
+    link: 'https://toeaung-yeyint.github.io/teams-titles/'
     description: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
   -
     icon: github.svg
-    name: awesome-project-two
-    link: 'https://github.com/'
+    name: CALCULATE-SHAPES-VOLUMES
+    link: 'https://toeaung-yeyint.github.io/calculate-shapes-volume/'
     description: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
