@@ -88,8 +88,8 @@ hobby:
 ########### Education
 education:
   -
-    icon: harvard.png
-    school: Harvard University
+    icon: monash.png
+    school: Monash University
     degree: MSc. in Data Science
     loc: Boston, MA
     time: 2018 ~ 2020 &middot; 2 yrs
