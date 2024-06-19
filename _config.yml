@@ -91,7 +91,7 @@ education:
     icon: monash.jpg
     school: Monash University
     degree: Master of Information Technology 
-    loc: Boston, MA
+    loc: Melbourne, Australia
     time: March 2020 ~ July 2022
     description: >-
       GPA: 4.0/4.0
@@ -99,7 +99,7 @@ education:
     icon: thanlyin.jpg
     school: Technological University (Thanlyin)
     degree: Bachelor of Technology / Bachelor of Architecture 
-    loc: Pittsburgh, PA
+    loc: Yangon, Myanmar
     time: 2011 ~ 2018
     description: >-
       GPA: 4.0/4.0
@@ -110,7 +110,7 @@ experience:
     icon: deakin.jpg
     company: Deakin University
     role: Digital Services Officer
-    loc: Mountain View, CA
+    loc: Melbourne, Australia
     time: October 2023 ~ present
     description: >-
       - Developed a web application to streamline managing digital assets, providing division staff a centralized hub for convenient access and resulting in 80% increase in asset utilisation across the division.
@@ -123,7 +123,7 @@ experience:
     icon: monash.jpg
     company: Monash University
     role: Web Developer
-    loc: Seattle, WA
+    loc: Melbourne, Australia
     time: August 2022 ~ October 2023
     description: >-
       - Designed and developed responsive websites on Squiz Matrix (CMS) using HTML, CSS, JavaScript with user-centric design principles, increased user engagement by 30% and improved navigation efficiency by 20%.
