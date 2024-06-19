@@ -115,11 +115,13 @@ experience:
   -
     icon: deakin.jpg
     company: Deakin University
-    role: Web Developer
+    role: Digital Services Officer
     loc: Mountain View, CA
     time: 2022 ~ now
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
+      Developed a web application using Power Apps to streamline managing digital assets, providing division staff a centralized hub for convenient access and resulting in 80% increase in asset utilisation across the division.
+      Revamped existing websites on Squiz Matrix (CMS) and WordPress (CMS) using HTML, CSS, and JavaScript to modernize and optimize UI/UX, resulting in intuitive user interfaces and enhanced user experience.
+      Implemented process automation using Power Automate to streamline manual workflows, reducing manual tasks by 50%, minimising human errors and amplifying efficiency across the division.
   -
     icon: monash.jpg
     company: Monash University
