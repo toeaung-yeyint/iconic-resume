@@ -92,7 +92,7 @@ education:
     school: Monash University
     degree: Master of Information Technology 
     loc: Melbourne, Australia
-    time: March 2020 ~ July 2022
+    time: Mar 2020 ~ Jul 2022
     description: >-
       GPA: 4.0/4.0
   -
@@ -111,7 +111,7 @@ experience:
     company: Deakin University
     role: Digital Services Officer
     loc: Melbourne, Australia
-    time: October 2023 ~ present
+    time: Oct 2023 ~ present
     description: >-
       - Developed a web application to streamline managing digital assets, providing division staff a centralized hub for convenient access and resulting in 80% increase in asset utilisation across the division.
       <br>
@@ -124,7 +124,7 @@ experience:
     company: Monash University
     role: Web Developer
     loc: Melbourne, Australia
-    time: August 2022 ~ October 2023
+    time: Aug 2022 ~ Oct 2023
     description: >-
       - Designed and developed responsive websites on Squiz Matrix (CMS) using HTML, CSS, JavaScript with user-centric design principles, increased user engagement by 30% and improved navigation efficiency by 20%.
       <br>
