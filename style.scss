@@ -93,9 +93,7 @@ p {
 // language section
 .language {
     margin: 5px;
-    display: flex;
-    flex-direction: column;
-    gap: 7px;
+    line-height: 1.5;
 }
 
 // techstack section
@@ -127,6 +125,7 @@ p {
 // hobby section
 .hobby {
     margin: 5px;
+    line-height: 1.5;
 }
 
 // education and experience entries
