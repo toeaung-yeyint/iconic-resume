@@ -7,22 +7,22 @@ headline: >-
   Passionate about artificial intelligence and more.
 
 contact:
-   -
-    icon: 'bi bi-envelope'
-    name: namegmail.com
-    url: 'mailto:toeaungyeyint@gmail.com'  # replace with your own email
   -
-    icon: 'bi bi-phone'
-    name: 0451 540 057
-    url: 'tel:+61451540057'  # Replace with your mobile number prefixed with 'tel:'
+    icon: 'bi bi-globe'
+    name: toeaung-yeyint
+    url: 'https://toeaung-yeyint.github.io/'  # replace with your own address
+  -
+    icon: 'bi bi-envelope'
+    name: toeaung-yeyint
+    url: 'mailto:toeaungyeyint@gmail.com'  # replace with your own email
   -
     icon: 'bi bi-linkedin'
     name: toeaung-yeyint
     url: 'https://www.linkedin.com/in/toeaung-yeyint'  # replace with your own address
   -
-    icon: 'bi bi-globe'
-    name: toeaung-yeyint
-    url: 'https://toeaung-yeyint.github.io/'  # replace with your own address
+    icon: 'bi bi-phone'
+    name: 0451 540 057
+    url: 'tel:+61451540057'  # Replace with your mobile number prefixed with 'tel:'
 
 language:
   - English
