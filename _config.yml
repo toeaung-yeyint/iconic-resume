@@ -119,11 +119,12 @@ experience:
     loc: Mountain View, CA
     time: 2022 ~ now
     description: >-
-      Developed a web application using Power Apps to streamline managing digital assets, providing division staff a centralized hub for convenient access and resulting in 80% increase in asset utilisation across the division.
+      Developed a web application to streamline managing digital assets, providing division staff a centralized hub for convenient access and resulting in 80% increase in asset utilisation across the division.
       -
       Revamped existing websites on Squiz Matrix (CMS) and WordPress (CMS) using HTML, CSS, and JavaScript to modernize and optimize UI/UX, resulting in intuitive user interfaces and enhanced user experience.
       -
-      Implemented process automation using Power Automate to streamline manual workflows, reducing manual tasks by 50%, minimising human errors and amplifying efficiency across the division.
+      Implemented process automation to streamline manual workflows, reducing manual tasks by 50%, minimising human errors and amplifying efficiency across the division.
+
   -
     icon: monash.jpg
     company: Monash University
@@ -131,7 +132,12 @@ experience:
     loc: Seattle, WA
     time: 2020 ~ 2022 &middot; 2yrs
     description: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi condimentum elit justo, vel tristique erat ornare in. Cras ultricies feugiat vehicula. Aenean nulla ipsum, sagittis ac felis vitae, facilisis maximus justo. Nunc ipsum ex, molestie vel velit eu, aliquet posuere velit. In dignissim volutpat ante, non lacinia eros egestas non. Mauris hendrerit orci sit amet metus facilisis, nec sollicitudin justo consectetur. Aenean aliquet velit egestas elementum efficitur. Cras sit amet fringilla arcu.
+      Designed and developed responsive websites on Squiz Matrix (CMS) using HTML, CSS, JavaScript with user-centric design principles, increased user engagement by 30% and improved navigation efficiency by 20%.
+      -
+      Applied innovative problem-solving techniques to address complex web-related issues on Zendesk (help desk software), resulted in enhanced system reliability and improved user satisfaction.
+      -
+      Conducted comprehensive keyword research using Semrush (keyword research tool) to optimize website content for search engines, resulted in 50% increase in visibility and organic traffic.
+
 
 ########### Publications (optional)
 # publication:
