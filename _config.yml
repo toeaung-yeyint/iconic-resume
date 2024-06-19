@@ -93,22 +93,22 @@ education:
     degree: MSc. in Data Science
     loc: Boston, MA
     time: 2018 ~ 2020 &middot; 2 yrs
-    description: >-
-      GPA: 4.0/4.0
-      <br>
-      Thesis: Your Thesis Title Here
-      <br>
-      Other information here.
+    # description: >-
+    #   GPA: 4.0/4.0
+    #   <br>
+    #   Thesis: Your Thesis Title Here
+    #   <br>
+    #   Other information here.
   -
     icon: thanlyin.jpg
     school: Technological University (Thanlyin)
     degree: BSc. in Computer Science
     loc: Pittsburgh, PA
     time: 2014 ~ 2018 &middot; 4 yrs
-    description: >-
-      GPA: 4.0/4.0
-      <br>
-      Other information here.
+    # description: >-
+    #   GPA: 4.0/4.0
+    #   <br>
+    #   Other information here.
 
 ########### Experience (optional)
 experience:
