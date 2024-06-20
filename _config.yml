@@ -115,7 +115,7 @@ education:
     loc: Melbourne, Australia
     time: Mar 2020 ~ Jul 2022
     description: >-
-      GPA: 4.0/4.0
+      GPA: 3.0/4.0
   -
     icon: thanlyin.jpg
     school: Technological University (Thanlyin)
@@ -123,7 +123,7 @@ education:
     loc: Yangon, Myanmar
     time: 2011 ~ 2018
     description: >-
-      GPA: 4.0/4.0
+      GPA: 3.4/4.0
       
 ########### Experience (optional)
 experience:
