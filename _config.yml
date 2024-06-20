@@ -71,7 +71,7 @@ techstack:
     name: Figma
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: fastapi.png
+    icon: aws.png
     name: AWS
     link: 'https://github.com/'  # replace with your own repo address
   -
