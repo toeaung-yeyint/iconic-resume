@@ -34,7 +34,7 @@ techstack:
     name: JavaScript
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: js.png
+    icon: typescript.png
     name: TypeScript
     link: 'https://github.com/'  # replace with your own repo address
   -
@@ -42,7 +42,7 @@ techstack:
     name: React
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: react.png
+    icon: vue.png
     name: Vue
     link: 'https://github.com/'  # replace with your own repo address
   -
@@ -82,7 +82,7 @@ techstack:
     name: sql
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: swift.png
+    icon: mongodb.png
     name: MongoDB
     link: 'https://github.com/'  # replace with your own repo address
   -
