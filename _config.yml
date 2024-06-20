@@ -30,52 +30,52 @@ language:
 
 techstack:
   -
-    icon: python.png
-    name: Python
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: pytorch.png
-    name: PyTorch
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: pyspark.png
-    name: PySpark
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: fastapi.png
-    name: FastAPI
-    link: 'https://github.com/'  # replace with your own repo address
-  -
     icon: js.png
     name: JavaScript
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: svelte.png
-    name: Svelte
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: react.png
     name: React
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: nextjs.svg
-    name: Next.js
+    icon: react.png
+    name: Vue
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: vite.png
-    name: Vite
+    icon: python.png
+    name: Python
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: swift.png
-    name: Swift
+    icon: pytorch.png
+    name: HTML
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: pyspark.png
+    name: CSS
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: fastapi.png
+    name: AWS
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: svelte.png
+    name: Azure
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: cpp.png
-    name: C++
+    name: Firebase
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: sql.png
     name: sql
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: swift.png
+    name: MongoDB
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: vite.png
+    name: Vite
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: git.png
