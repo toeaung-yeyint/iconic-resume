@@ -58,12 +58,12 @@ techstack:
     name: CSS
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: tailwind.png
-    name: Tailwind
+    icon: scss.png
+    name: SCSS
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: pyspark.png
-    name: Bootstrap
+    icon: tailwind.png
+    name: Tailwind
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: pyspark.png
