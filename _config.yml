@@ -34,6 +34,10 @@ techstack:
     name: JavaScript
     link: 'https://github.com/'  # replace with your own repo address
   -
+    icon: js.png
+    name: TypeScript
+    link: 'https://github.com/'  # replace with your own repo address
+  -
     icon: react.png
     name: React
     link: 'https://github.com/'  # replace with your own repo address
@@ -54,12 +58,20 @@ techstack:
     name: CSS
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: fastapi.png
-    name: AWS
+    icon: pyspark.png
+    name: Tailwind
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: svelte.png
-    name: Azure
+    icon: pyspark.png
+    name: Bootstrap
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: pyspark.png
+    name: Figma
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: fastapi.png
+    name: AWS
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: cpp.png
@@ -72,6 +84,14 @@ techstack:
   -
     icon: swift.png
     name: MongoDB
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: swift.png
+    name: WordPress
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: swift.png
+    name: Squiz Matrix
     link: 'https://github.com/'  # replace with your own repo address
   -
     icon: vite.png
