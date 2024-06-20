@@ -50,15 +50,15 @@ techstack:
     name: Python
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: pytorch.png
+    icon: html.png
     name: HTML
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: pyspark.png
+    icon: css.png
     name: CSS
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: pyspark.png
+    icon: tailwind.png
     name: Tailwind
     link: 'https://github.com/'  # replace with your own repo address
   -
@@ -74,7 +74,7 @@ techstack:
     name: AWS
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: cpp.png
+    icon: firebase.png
     name: Firebase
     link: 'https://github.com/'  # replace with your own repo address
   -
