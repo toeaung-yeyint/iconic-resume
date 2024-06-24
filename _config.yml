@@ -99,7 +99,7 @@ techstack:
     name: Vite
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: docker.jpg
+    icon: docker.png
     name: Docker
     link: 'https://github.com/'  # replace with your own repo address
   -
