@@ -5,7 +5,7 @@ baseurl: '/iconic-resume'
 name: Toe Aung Ye Yint
 
 headline: >-
-  A front end developer with over two years of work experience and a passion for creating user-friendly and responsive web applications using modern technologies. Experienced in designing, coding, testing, and debugging web pages and interfaces, as well as collaborating with other developers and clients to ensure high-quality and user satisfaction. Proficient in Python, JavaScript, React.js, Vue.js, HTML, CSS, SQL, and MongoDB.
+  A motivated developer with over two years of experience in front-end development and data management. Proficient in designing, developing, and optimizing user interfaces while leveraging database management skills to deliver impactful data solutions. Adept at enhancing user experience and streamlining processes to improve efficiency. Looking to transition into a Data and Reporting Developer role to apply my technical skills in a data-driven environment.
 
 contact:
   -
@@ -30,6 +30,18 @@ language:
   - Burmese
 
 techstack:
+  -
+    icon: sql.png
+    name: sql
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: mongodb.png
+    name: MongoDB
+    link: 'https://github.com/'  # replace with your own repo address
+  -
+    icon: git.png
+    name: git
+    link: 'https://github.com/'  # replace with your own repo address
   -
     icon: js.png
     name: JavaScript
@@ -79,14 +91,6 @@ techstack:
     name: Firebase
     link: 'https://github.com/'  # replace with your own repo address
   -
-    icon: sql.png
-    name: sql
-    link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: mongodb.png
-    name: MongoDB
-    link: 'https://github.com/'  # replace with your own repo address
-  -
     icon: wordpress.png
     name: WordPress
     link: 'https://github.com/'  # replace with your own repo address
@@ -102,10 +106,6 @@ techstack:
     icon: docker.png
     name: Docker
     link: 'https://github.com/'  # replace with your own repo address
-  -
-    icon: git.png
-    name: git
-    link: 'https://github.com/'  # replace with your own repo address
 
 hobby:
   - Available request upon
@@ -114,20 +114,20 @@ hobby:
 education:
   -
     icon: monash.jpg
-    school: Monash University
+    school: Monash University, Melbourne, Australia
     degree: Master of Information Technology 
-    loc: Melbourne, Australia
-    time: Mar 2020 ~ Jul 2022
+    # loc: 
+    # time: 
     description: >-
-      GPA: 3.0/4.0
+      GPA: Mar 2020 ~ Jul 2022
   -
     icon: thanlyin.jpg
-    school: Thanlyin Technological University
+    school: Thanlyin Technological University, Yangon, Myanmar
     degree: Bachelor of Technology / Bachelor of Architecture 
-    loc: Yangon, Myanmar
-    time: Mar 2012 ~ Nov 2018
+    # loc: 
+    # time: 
     description: >-
-      GPA: 3.4/4.0
+      GPA: Mar 2012 ~ Nov 2018
       
 ########### Experience (optional)
 experience:
