@@ -114,16 +114,16 @@ hobby:
 education:
   -
     icon: monash.jpg
-    school: Monash University, Melbourne, Australia
     degree: Master of Information Technology 
+    school: Monash University, Melbourne, Australia
     # loc: 
     # time: 
     description: >-
       GPA: Mar 2020 ~ Jul 2022
   -
     icon: thanlyin.jpg
-    school: Thanlyin Technological University, Yangon, Myanmar
     degree: Bachelor of Technology / Bachelor of Architecture 
+    school: Thanlyin Technological University, Yangon, Myanmar
     # loc: 
     # time: 
     description: >-
