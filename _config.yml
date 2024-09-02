@@ -115,19 +115,19 @@ education:
   -
     icon: monash.jpg
     degree: Master of Information Technology 
-    school: Monash University, Melbourne, Australia
-    # loc: 
-    # time: 
+    school: Monash University
+    loc: Melbourne, Australia
+    time: Mar 2020 ~ Jul 2022
     description: >-
-      GPA: Mar 2020 ~ Jul 2022
+      GPA: 
   -
     icon: thanlyin.jpg
     degree: Bachelor of Technology / Bachelor of Architecture 
-    school: Thanlyin Technological University, Yangon, Myanmar
-    # loc: 
-    # time: 
+    school: Thanlyin Technological University
+    loc: Yangon, Myanmar
+    time: Mar 2012 ~ Nov 2018
     description: >-
-      GPA: Mar 2012 ~ Nov 2018
+      GPA: 
       
 ########### Experience (optional)
 experience:
