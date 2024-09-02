@@ -142,14 +142,14 @@ p {
         margin-right: 5px;
         }
 
-    .title {
+    .subtitle {
         font-size: $font-size + 1pt;
         font-weight: 500;
         }
 
-    .subtitle {
+    .title {
         font-size: $font-size;
-        font-weight: 500;
+        font-style: italic;
         margin-top: 5px;
         margin-bottom: 5px;
         }
